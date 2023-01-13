@@ -102,3 +102,21 @@ tiempo_aprendizaje
 respuesta 
 [1] 55 15 15 25 25
 
+dias_aprendizaje <- c ("lunes","Martes","mircoles","jueves","viernes" )
+dias_aprendizaje
+[1] "lunes"    "Martes"   "mircoles" "jueves"   "viernes" 
+
+Total_tiempo_platzi <- sum (tiempo_platzi)
+Total_tiempo_platzi
+total_tiempo_lecturas <- sum(tiempo_lecturas)
+total_tiempo_lecturas
+total_tiempo_adicional <- Total_tiempo_platzi + total_tiempo_lecturas
+total_tiempo_adicional
+![image](https://user-images.githubusercontent.com/72534486/212226602-10862d1c-7e81-4319-b863-e9329a8fc840.png)
+
+bulianos
+
+dias_mas_20min <- c(TRUE,FALSE,FALSE,TRUE,TRUE)
+dias_mas_20min
+![image](https://user-images.githubusercontent.com/72534486/212226840-e0929df6-b537-45e5-ac71-51f530a66267.png)
+
