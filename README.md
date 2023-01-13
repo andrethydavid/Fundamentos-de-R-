@@ -122,4 +122,28 @@ dias_mas_20min
 
 Matrices
 
+![image](https://user-images.githubusercontent.com/72534486/212231124-6f80fcd8-d2b6-40de-aa8a-5c676b252ba7.png)
+![image](https://user-images.githubusercontent.com/72534486/212231158-7d791cac-93d9-4974-9a96-6f6171c04262.png)
+Code
+#matriz
+
+#CREO MATRICES . NTW = NUMERI DE FILAS;BYNOW = PARA QUE SE ORDNE POR FILAS 
+
+tiempo_matrix <- matrix(c(tiempo_platzi, tiempo_lecturas),
+                        nrow=2, byrow=TRUE)
+
+#CREAR ETIQUETAS DE MATRICES Y CREO VARIABLES PARA GUARDARLAS:
+
+dias <- c("Lunes", "Martes", "Miercoles", "Jueves", "Viernes")
+Tiempo <- c("tiempo_platzi", "tiempo_lecturas")
+
+#asignamos cual era la fila y cual la columna 
+
+colnames(tiempo_matrix) <- dias
+rownames(tiempo_matrix) <- Tiempo
+
+tiempo_matrix
+#llamo la matriz
+colSums(tiempo_matrix)
+rowSums(tiempo_matrix)
 
