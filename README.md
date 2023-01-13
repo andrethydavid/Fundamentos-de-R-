@@ -120,3 +120,6 @@ dias_mas_20min <- c(TRUE,FALSE,FALSE,TRUE,TRUE)
 dias_mas_20min
 ![image](https://user-images.githubusercontent.com/72534486/212226840-e0929df6-b537-45e5-ac71-51f530a66267.png)
 
+Matrices
+
+
