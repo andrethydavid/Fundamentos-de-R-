@@ -95,4 +95,10 @@ summary(mtcars.new)
 
 Vectores 
 
+tiempo_platzi <- c (25,5,10,15,10)
+tiempo_lecturas <- c (30,10,5,10,15)
+tiempo_aprendizaje <- tiempo_platzi +tiempo_lecturas
+tiempo_aprendizaje
+respuesta 
+[1] 55 15 15 25 25
 
