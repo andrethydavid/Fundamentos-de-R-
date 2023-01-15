@@ -146,4 +146,4 @@ tiempo_matrix
 #llamo la matriz
 colSums(tiempo_matrix)
 rowSums(tiempo_matrix)
-
+,
