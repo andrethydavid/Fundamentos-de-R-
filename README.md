@@ -147,4 +147,3 @@ colSums(tiempo_matrix)
 rowSums(tiempo_matrix)
 
 
-.
