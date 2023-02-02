@@ -9,8 +9,8 @@ Python y R son dos lenguajes potentes para manejar los datos. Para los que estam
 
 ## LOS PRIMEROS CALCULOS  ➕  
 Se puede seralizar sumas 
+4+5
 
-4 + 8  
 
 restas 
 5 - 8
