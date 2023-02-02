@@ -1,5 +1,4 @@
-#FUNDAMENTOS DE R. 🖥  
-
+## FUNDAMENTOS DE R 🖥
 Data Science y programación van de la mano, un programador debería conocer de ciencia de datos, pues estos se encargan de recolectar los datos a través de las interfaces y los datos son la materia prima para la data Science. Se hace un recuento de la revolución industrial (las revoluciones industriales). Hoy se vive la 4ª revolución industrial, IoT, AI, los datos se producen constantemente, las empresas nos conocen por los datos que producimos.
 
 Big Data es muchísimo mayor a las 16 mil columnas. Volumen. Velocidad. Variedad son los requisitos, manejamos muchos datos no estructurados. Es decir, no en columnas. Se requieren conocimientos de matemáticas, estadística, programación, conocimiento de negocio y contexto, visualización y comunicación. Responder preguntas a través de los datos.
