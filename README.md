@@ -113,13 +113,13 @@ total_tiempo_adicional <- Total_tiempo_platzi + total_tiempo_lecturas
 total_tiempo_adicional
 ![image](https://user-images.githubusercontent.com/72534486/212226602-10862d1c-7e81-4319-b863-e9329a8fc840.png)
 
-bulianos
+### BULIANOS
 
 dias_mas_20min <- c(TRUE,FALSE,FALSE,TRUE,TRUE)
 dias_mas_20min
 ![image](https://user-images.githubusercontent.com/72534486/212226840-e0929df6-b537-45e5-ac71-51f530a66267.png)
 
-Matrices
+### MATRICES 
 
 ![image](https://user-images.githubusercontent.com/72534486/212231124-6f80fcd8-d2b6-40de-aa8a-5c676b252ba7.png)
 ![image](https://user-images.githubusercontent.com/72534486/212231158-7d791cac-93d9-4974-9a96-6f6171c04262.png)
