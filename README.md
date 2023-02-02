@@ -1,13 +1,14 @@
+##Fundamentos de R  🖥
+
 Data Science y programación van de la mano, un programador debería conocer de ciencia de datos, pues estos se encargan de recolectar los datos a través de las interfaces y los datos son la materia prima para la data Science. Se hace un recuento de la revolución industrial (las revoluciones industriales). Hoy se vive la 4ª revolución industrial, IoT, AI, los datos se producen constantemente, las empresas nos conocen por los datos que producimos.
 
 Big Data es muchísimo mayor a las 16 mil columnas. Volumen. Velocidad. Variedad son los requisitos, manejamos muchos datos no estructurados. Es decir, no en columnas. Se requieren conocimientos de matemáticas, estadística, programación, conocimiento de negocio y contexto, visualización y comunicación. Responder preguntas a través de los datos.
 
-# Lenguaje De Programación De Datos R
+# Lenguaje De Programación De Datos .🦾
 
 Python y R son dos lenguajes potentes para manejar los datos. Para los que estamos empezando en el mundo de Ciencia de Datos es importante no centrarnos en la discusión de cual es mejor, sino entender que son dos lenguajes con los cuales podemos afrontar diversos proyectos y dependiendo del proyecto, sus características y alcance, deberíamos de elegir uno lenguaje u otro. Fundamental tener este concepto claro para empezar en este mundo.
 
-
-Los primeros cálculos con R y variables.
+## LOS PRIMEROS CALCULOS CON R Y VARIABLES. ➕   
 Se puede seralizar sumas 
 
 4 + 8  
