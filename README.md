@@ -7,7 +7,7 @@ Big Data es muchísimo mayor a las 16 mil columnas. Volumen. Velocidad. Variedad
 
 Python y R son dos lenguajes potentes para manejar los datos. Para los que estamos empezando en el mundo de Ciencia de Datos es importante no centrarnos en la discusión de cual es mejor, sino entender que son dos lenguajes con los cuales podemos afrontar diversos proyectos y dependiendo del proyecto, sus características y alcance, deberíamos de elegir uno lenguaje u otro. Fundamental tener este concepto claro para empezar en este mundo.
 
-## LOS PRIMEROS CALCULOS CON R Y VARIABLES. ➕   
+## LOS PRIMEROS CALCULOS  ➕  
 Se puede seralizar sumas 
 
 4 + 8  
