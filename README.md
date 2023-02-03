@@ -83,13 +83,20 @@ summary(carpeta que uses ) es para desglosara la informacion o sumarla todo
 
 L variable para convertir  libras a kilos 
 ![image](https://user-images.githubusercontent.com/72534486/211960380-d3069eba-d451-4db1-9dc5-e8100a9072e3.png)
+
+
+
+```html
+
 summary(mtcars)
 
-wt <- (mtcars$wt*1000)/2
-wt 
+wt <- (mtcars$wt*1000)/2 wt
 
-mtcars.new <- transform(mtcars,wt=wt*100/2)
-mtcars.new
+mtcars.new <- transform(mtcars,wt=wt*100/2) mtcars.new
+
+summary(mtcars.new)
+
+```
 
 
 summary(mtcars.new)
@@ -135,7 +142,12 @@ dias_mas_20min
 ![image](https://user-images.githubusercontent.com/72534486/212231124-6f80fcd8-d2b6-40de-aa8a-5c676b252ba7.png)
 ![image](https://user-images.githubusercontent.com/72534486/212231158-7d791cac-93d9-4974-9a96-6f6171c04262.png)
 Code
-#matriz
+
+## MATRIZ 
+
+```html
+
+
 
 #CREO MATRICES . NTW = NUMERI DE FILAS;BYNOW = PARA QUE SE ORDNE POR FILAS 
 
@@ -156,5 +168,9 @@ tiempo_matrix
 #llamo la matriz
 colSums(tiempo_matrix)
 rowSums(tiempo_matrix)
+
+
+
+```
 
 
