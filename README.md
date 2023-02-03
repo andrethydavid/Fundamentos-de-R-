@@ -37,29 +37,31 @@ solucion de la variable
 [1] 9.5
 
 
-variable de  notas 
+# VARIABLE 
+```html
 
-corte_1 <- 0.3
-corte_2 <- 0.3
+corte_1 <- 0.3 
+corte_2 <- 0.3 
 corte_3 <- 0.4
 
-nota_1 < - 4.0
-nota_2 < - 4.6
+nota_1 < - 4.0 
+nota_2 < - 4.6 
 nota_3 < - 3.0
 
-
-nota_c_1 < - nota_1 * corte_1
+nota_c_1 < - nota_1 * corte_1 
 nota_c_1
 
-
-nota_c_2 < - nota_2 * corte_2
+nota_c_2 < - nota_2 * corte_2 
 nota_c_2
 
-nota_c_3 < - nota_3 * corte_3
+nota_c_3 < - nota_3 * corte_3 
 nota_c_3
 
-nota_final <- nota_c_1 + nota_c_2  +nota_c_3
-nota_final 
+nota_final <- nota_c_1 + nota_c_2 + nota_c_3
+ nota_final
+
+
+```
 
 
 
