@@ -177,4 +177,32 @@ rowSums(tiempo_matrix)
 
 ```
 
+ # Gráficas de dispersión e histogramas. 
+
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7063dc6b-1ee2-4bc7-afbb-019fe7a20ac4/Untitled.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
