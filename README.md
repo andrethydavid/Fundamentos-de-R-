@@ -180,15 +180,29 @@ rowSums(tiempo_matrix)
  # Gráficas de dispersión e histogramas. 
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7063dc6b-1ee2-4bc7-afbb-019fe7a20ac4/Untitled.png)
+![image](https://user-images.githubusercontent.com/72534486/217400139-839b5818-10e8-4259-9e1a-054cd41d9729.png)
 
 
 
+## GRÁFICA DE DISPERSIÓN
 
+Los ejes solamente pueden ser valores numéricos y los puntos no se pueden unir
 
+![image](https://user-images.githubusercontent.com/72534486/217400265-f57e457a-9f60-49c5-b150-fa8a625c8d92.png)
 
+# HISTOGRAMA
 
+Sirve para ver la distribución de las frecuencias de una variable, es diferente a la gráfica de barras.
 
+.
+
+Las barras van pegadas
+
+El orden en el EJE X es ascendente (de menor < a > mayor)
+
+Es TAL CUAL como se presenta la distribuciòn de las frecuencias
+
+Se ve lo que HAY y lo que NO hay
 
 
 
